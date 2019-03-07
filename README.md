@@ -1,2 +1,2 @@
 # hello-world
-Create first repository
+Playing with Git
